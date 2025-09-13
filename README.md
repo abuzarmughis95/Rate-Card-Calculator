@@ -61,7 +61,7 @@ A professional resource planning application that calculates custom resource rat
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abuzarmughis95/Rate-Card-Calculator.git
    cd RateCardReplica
    ```
 
